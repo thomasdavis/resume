@@ -2,12 +2,25 @@
     "name": "Thomas Davis",
     "email": "thomasalwyndavis@gmail.com",
     "phoneNumber": null,
+    "email": "thomasalwyndavis@gmail.com",
     "bio": "Hey guys, I’m a full stack web developer who loves working with open source technology.",
     "location": {
         "city": "Brisbane",
         "countryCode": "AU"
     },
+    "summary": {
+      "message": "Hey guys, I’m a full stack web developer who loves working with open source technology.",
+      "highlights": ["Sixth most followed Australian developer on Github", "59th most active open source contributor world wide on Github -> http://git.io/top", "Javascript/HTML/CSS/Ruby/Mongo/SQL"]
+    }
     "work": [{
+        "startDate":   "2011-06-08",
+        "endDate": "2014-06-09",
+        "position": "Co-Founder",
+        "name": "Cdnjs",
+        "website": "http://www.cdnjs.com",
+        "description": "Following Google’s CDN for jQuery, we decided to start a CDN for the less popular Javascript frameworks. The CDN is community moderated and open source on GitHub. We secured a partnership with Cloudflare.com who now supports the infrastructure.",
+        "highlights": ["Hundreds of thousands of sites use the cdn in production", "Larger market share than Yahoo's and Microsoft's content distribution network", "We serve tens of billions request a month", "Contains over 800 popular Javascript libraries", "Hundreds of thousands developers visit the site per year"]
+    }, {
         "startDate":   "2014-06-08",
         "endDate": "2014-06-09",
         "position": "CTO",
@@ -31,6 +44,30 @@
         "website": "http://www.taskforce.is",
         "description": "Worked on many politically charged campaigns against mass surveillance. Our latest project was \"TheDayWeFightBack\" and I worked on all areas of it. The campaign resulted in 37,000,000 banner views, 100,000 phone calls, ~500,000 emails and ~250,000 signatures. I work mostly in the frontend and also running the Heroku servers which are cached by Cloudfront.",
         "highlights": []
+    }, {
+        "startDate":   "2013-01-01",
+        "endDate": "2014-01-01",
+        "position": "Co-Founder",
+        "name": "Drone Hire",
+        "website": "http://www.dronehire.org",
+        "description": "An international directory of civilian drone / UAV operators for hire. Services include aerial photography, aerial video, mapping, surveying, precision agriculture, real estate photography, remote inspections and infrared imaging. Our plan is to be the place to go when looking for UAV/Drone services. The website is built in Backbone.js and API is built with Node.js and Postgres. The site and blog combined have managed to receive over 200,000 visitors this year.",
+        "highlights": []
+    }, {
+        "startDate":   "2011-01-01",
+        "endDate": "2014-06-01",
+        "position": "Founder",
+        "name": "BackboneTutorials.com",
+        "website": "http://backbonetutorials.com",
+        "description": "I write tutorials and blog post regarding the popular Javascript framework Backbone.js. The tutorials cover a range of topics regarding front end development aimed at beginners, experts and anyone in between.",
+        "highlights": ["Over two million unique visitors a year", "23,000+ ebook downloads", "150,000 Youtube views", "Spawned another project called backboneboilerplate.com"]
+    }, {
+        "startDate":   "2011-01-01",
+        "endDate": "2012-06-01",
+        "position": "Front-end Developer",
+        "name": "Ephox",
+        "website": "http://ephox.com",
+        "description": "Ephox is a worldwide company who is heavily involved with the development of TinyMce and enterprise editors. My primary role included building front-end widgets and applications. Worked on a major product using Backbone.js as a base. Heavily involved in UI/UX design and wire-framing. Also spend a lot of time designing API specifications and documentation.
+"
     }],
     "education": [{
         "name": "The University of Queensland",
