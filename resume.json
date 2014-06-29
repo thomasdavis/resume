@@ -11,7 +11,7 @@
     "summary": {
       "message": "Hey guys, I’m a full stack web developer who loves working with open source technology.",
       "highlights": ["Sixth most followed Australian developer on Github", "59th most active open source contributor world wide on Github -> http://git.io/top", "Javascript/HTML/CSS/Ruby/Mongo/SQL"]
-    }
+    },
     "work": [{
         "startDate":   "2011-06-08",
         "endDate": "2014-06-09",
@@ -66,8 +66,7 @@
         "position": "Front-end Developer",
         "name": "Ephox",
         "website": "http://ephox.com",
-        "description": "Ephox is a worldwide company who is heavily involved with the development of TinyMce and enterprise editors. My primary role included building front-end widgets and applications. Worked on a major product using Backbone.js as a base. Heavily involved in UI/UX design and wire-framing. Also spend a lot of time designing API specifications and documentation.
-"
+        "description": "Ephox is a worldwide company who is heavily involved with the development of TinyMce and enterprise editors. My primary role included building front-end widgets and applications. Worked on a major product using Backbone.js as a base. Heavily involved in UI/UX design and wire-framing. Also spend a lot of time designing API specifications and documentation."
     }],
     "education": [{
         "name": "The University of Queensland",
