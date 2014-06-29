@@ -1,12 +1,12 @@
 {
-  "bio": [{
+  "bio": {
       "name": "Thomas Davis",
       "bio": "Hey guys, I’m a full stack web developer who loves working with open source technology.",
       "location": {
           "city": "Brisbane",
           "countryCode": "AU"
       }
-    }],
+    },
   "work": [{
       "startDate":   "2011-06-08",
       "endDate": "2014-06-09",
