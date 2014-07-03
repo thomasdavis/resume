@@ -1,10 +1,15 @@
 {
   "bio": {
-      "name": "Thomas Davis",
-      "bio": "Hey guys, I’m a full stack web developer who loves working with open source technology.",
+      "firstName": "Thomas", 
+      "lastName": "Davis",
+      "summary": "Hey guys, I’m a full stack web developer who loves working with open source technology.",
       "location": {
           "city": "Brisbane",
           "countryCode": "AU"
+      },
+      "profiles": {
+          "twitter": "neutralthoughts",
+          "github": "thomasdavis"
       }
     },
   "work": [{
