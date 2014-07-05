@@ -32,7 +32,7 @@
       "startDate":   "2014-01-01",
       "endDate": "2014-06-01",
       "position": "Developer",
-      "company": "Electronic Freedom Frontier",
+      "company": "Electronic Frontier Foundation",
       "website": "http://www.eff.org",
       "summary": "Hired to take EFF's campaigning to the next level by building an action centre in Ruby on Rails. The action centre is built around some large open source tools that lower the barrier to entry when contacting congress.",
       "highlights": ["Developed new tools in the contacting congress industry"]
@@ -90,7 +90,12 @@
       "twitter": "neutralthoughts"
   },
   "skills": [{
-    "name": "Web Development"
+    "name": "Frontend",
+    "keywords": ["html", "css", "javascript", "backbone"]
+  },
+  {
+    "name": "Backend",
+    "keywords": ["Node", "Ruby", "Python"]
   }],
   "hobbies": [],
   "references": [{
