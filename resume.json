@@ -2,7 +2,10 @@
   "bio": {
       "firstName": "Thomas", 
       "lastName": "Davis",
-      "summary": "Hey guys, I’m a full stack web developer who loves working with open source technology.",
+      "summary": "Hey guys, I’m a full stack web developer who loves working with open source technology. These days I do politics with EFF and Taskforce.is, I promote independent artist at Earbits, speed up the web with cdnjs.com and building Skynet with DroneHire.org.",
+      "email": {
+          "personal": "thomasalwyndavis@gmail.com"
+      },
       "location": {
           "city": "Brisbane",
           "countryCode": "AU"
@@ -26,8 +29,8 @@
       "position": "CTO",
       "company": "Earbits",
       "website": "http://www.earbits.com",
-      "summary": "Started off as a front end developer but took on the role of CTO in early 2013. Managed Rail applications and did a large server and database(MongoDB) migration from Heroku to Amazon.",
-      "highlights": ["Manage a large 300gb Mongo DB"]
+      "summary": "Started off as a front end developer but took on the role of CTO in early 2013. Managed a large Rails application and did a big server and database(MongoDB) migration from Heroku to Amazon.",
+      "highlights": ["Managed a small team of developers and designers"]
   }, {
       "startDate":   "2014-01-01",
       "endDate": "2014-06-01",
@@ -35,7 +38,7 @@
       "company": "Electronic Frontier Foundation",
       "website": "http://www.eff.org",
       "summary": "Hired to take EFF's campaigning to the next level by building an action centre in Ruby on Rails. The action centre is built around some large open source tools that lower the barrier to entry when contacting congress.",
-      "highlights": ["Developed new tools in the contacting congress industry"]
+      "highlights": ["Developed new tools for contacting congress"]
   }, {
       "startDate":   "2014-01-01",
       "endDate": "2014-06-01",
