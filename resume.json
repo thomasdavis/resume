@@ -72,7 +72,7 @@
       "summary": "Ephox is a worldwide company who is heavily involved with the development of TinyMce and enterprise editors. My primary role included building front-end widgets and applications. Worked on a major product using Backbone.js as a base. Heavily involved in UI/UX design and wire-framing. Also spend a lot of time designing API specifications and documentation."
   }],
   "education": [{
-      "name": "The University of Queensland",
+      "institution": "The University of Queensland",
       "studyType": "Bachelors",
       "area": "Software Engineering",
       "startDate": "2008-02",
