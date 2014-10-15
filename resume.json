@@ -19,32 +19,36 @@
         }]
     },
     "work": [{
-        "startDate": "2011-06-08",
-        "endDate": "2014-06-09",
+        "startDate": "2011-01-08",
         "position": "Co-Founder",
         "company": "Cdnjs",
         "website": "http://www.cdnjs.com",
         "summary": "Following Google’s CDN for jQuery, we decided to start a CDN for the less popular Javascript frameworks. The CDN is community moderated and open source on GitHub. We secured a partnership with Cloudflare who now supports the infrastructure.",
         "highlights": ["Hundreds of thousands of sites use the CDN in production", "Larger market share than Yahoo's and Microsoft's content distribution network", "We serve tens of billions request a month", "Contains over 800 popular Javascript libraries", "Hundreds of thousands developers visit the site per year"]
     }, {
-        "startDate": "2014-06-08",
-        "endDate": "2014-06-09",
-        "position": "CTO",
-        "company": "Earbits",
-        "website": "http://www.earbits.com",
-        "summary": "Started off as a front end developer but took on the role of CTO in early 2013. The application frontend is built with Javascript and organized as a single page application that talks to a collection of Rails web servers which are connected to MongoDB.",
-        "highlights": ["Managed a small team of developers and designers", "Built the entire frontend application with Backbone.js", "Transferred all of the infrastructure from Heroku to AWS"]
-    }, {
-        "startDate": "2014-01-01",
-        "endDate": "2014-06-01",
+        "startDate": "2014-04-01",
         "position": "Developer",
         "company": "Electronic Frontier Foundation",
         "website": "http://www.eff.org",
         "summary": "Hired to take EFF's campaigning to the next level by building an action centre in Ruby on Rails. The action centre is built around some large open source tools that lower the barrier to entry when contacting congress.",
         "highlights": ["Developed new tools for contacting congress", "Brainstormed campaign ideas to raise maximum awareness about issues", "Lots of social networking integration"]
     }, {
-        "startDate": "2014-01-01",
-        "endDate": "2014-06-01",
+        "startDate": "2013-03-08",
+        "endDate": "2014-01-09",
+        "position": "CTO",
+        "company": "Earbits",
+        "website": "http://www.earbits.com",
+        "summary": "Started off as a front end developer but took on the role of CTO in early 2013. The application frontend is built with Javascript and organized as a single page application that talks to a collection of Rails web servers which are connected to MongoDB.",
+        "highlights": ["Managed a small team of developers and designers", "Built the entire frontend application with Backbone.js", "Transferred all of the infrastructure from Heroku to AWS"]
+    }, {
+        "startDate": "2014-04-01",
+        "position": "Founder",
+        "company": "JSON Resume",
+        "website": "http://jsonresume.org", 
+        "summary": "JSON Resume is a community driven open source initiative to create a JSON based standard for resumes. There is no reason why there can't be a common standard for writing a resume that can be extended with an ecosystem of open source tools.",
+        "highlights": ["Over 1500 stars on Github", "Community developed themes", "50,000 views on the hosted service"]
+    }, {
+        "startDate": "2013-06-01",
         "position": "Developer",
         "company": "Taskforce.is",
         "website": "http://www.taskforce.is", 
@@ -52,7 +56,6 @@
         "highlights": ["Generated  37,000,000 banner views", "100, 000 phone calls to congress", "500, 000 emails", "250, 000 signatures"]
     }, {
         "startDate": "2013-01-01",
-        "endDate": "2014-01-01",
         "position": "Co-Founder",
         "company": "Drone Hire",
         "website": "http://www.dronehire.org",
@@ -60,7 +63,6 @@
         "highlights": ["The site and blog combined have managed to receive over 200,000 visitors in 2014."]
     }, {
         "startDate": "2011-01-01",
-        "endDate": "2014-06-01",
         "position": "Founder",
         "company": "BackboneTutorials.com",
         "website": "http://backbonetutorials.com",
@@ -77,7 +79,7 @@
     "education": [{
         "institution": "The University of Queensland",
         "studyType": "Bachelors",
-        "area": "Software Engineering",
+        "area": "Software Engineering (incomplete)",
         "startDate": "2008-02-12",
         "endDate": "2009-12-12"
     }],
