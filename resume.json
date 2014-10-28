@@ -83,10 +83,6 @@
         "startDate": "2008-02-12",
         "endDate": "2009-12-12"
     }],
-    "profiles": {
-        "github": "thomasdavis",
-        "twitter": "neutralthoughts"
-    },
     "skills": [{
         "name": "Frontend",
         "keywords": ["HTML", "CSS", "Javascript", "Backbone"]
@@ -94,7 +90,6 @@
         "name": "Backend",
         "keywords": ["Node", "Ruby", "Python"]
     }],
-    "hobbies": [],
     "references": [{
         "name": "Greg Davis",
         "reference": "On Thomas Davis ... Hire this guy. Do not be fooled. Incredibly capable and fast. Plays well with others. Unbelievable at front-end work end programming but that is just the start. Visionary. Hire him before I do."
