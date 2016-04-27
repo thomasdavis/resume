@@ -24,7 +24,7 @@
         "company": "Cdnjs",
         "website": "http://www.cdnjs.com",
         "summary": "Following Google’s CDN for jQuery, we decided to start a CDN for the less popular Javascript frameworks. The CDN is community moderated and open source on GitHub. We secured a partnership with Cloudflare who now supports the infrastructure.",
-        "highlights": ["Hundreds of thousands of sites use the CDN in production", "Larger market share than Yahoo's and Microsoft's content distribution network", "We serve tens of billions request a month", "Contains over 800 popular Javascript libraries", "Hundreds of thousands developers visit the site per year"]
+        "highlights": ["Hundreds of thousands of sites use the CDN in production", "Larger market share than Yahoo's and Microsoft's content distribution network", "We serve tens of billions request a month", "Contains over 1000 popular Javascript libraries", "Hundreds of thousands developers visit the site per year"]
     }, {
         "startDate": "2014-04-01",
         "position": "Developer",
@@ -44,14 +44,14 @@
         "startDate": "2014-04-01",
         "position": "Founder",
         "company": "JSON Resume",
-        "website": "http://jsonresume.org", 
+        "website": "http://jsonresume.org",
         "summary": "JSON Resume is a community driven open source initiative to create a JSON based standard for resumes. There is no reason why there can't be a common standard for writing a resume that can be extended with an ecosystem of open source tools.",
         "highlights": ["Over 1500 stars on Github", "Community developed themes", "50,000 views on the hosted service"]
     }, {
         "startDate": "2013-06-01",
         "position": "Developer",
         "company": "Taskforce.is",
-        "website": "http://www.taskforce.is", 
+        "website": "http://www.taskforce.is",
         "summary": "Worked on many politically charged campaigns against mass surveillance. Not only technically challenging work but also a lot of networking and getting my hands dirty with politics.    Our biggest project was \"TheDayWeFightBack\"..",
         "highlights": ["Generated  37,000,000 banner views", "100, 000 phone calls to congress", "500, 000 emails", "250, 000 signatures"]
     }, {
@@ -90,8 +90,22 @@
         "name": "Backend",
         "keywords": ["Node", "Ruby", "Python"]
     }],
-    "references": [{
+    "references": [
+      {
+          "name": "Joey Flores, Co-founder and CEO of Earbits, Inc.",
+          "reference": "Thomas was hired as a lead developer and, upon the leaving of our co-founder took over as CTO of Earbits. Thomas is, hands down, one of those A Players you hear of companies dying to hire. He is incredibly smart, not just at code but about everything from classical music to Chinese language and culture. Thomas is great to work with and, as a well established contributor to open source projects and several successful ventures, commands the respect of engineers at all levels. I would suggest doing anything you can to have him on your team."
+      },
+      {
+          "name": "Yotam Rosenbaum, SVP of Operations, Earbits, Inc.",
+          "reference": "I've had the great pleasure of working with Thomas for the past three years at Earbits, and on a few side projects. Two years ago our CTO left on a moment's notice, Thomas saved our company by quickly stepping up to fill this role. He has been with our company through thick and thin and made serious personal sacrifices in order to help the company during tough times. He is a phenomenal hacker and a true team player. Highly recommended!"
+      },
+      {
+          "name": "Ryan Kirkman, Senior Software Engineer at Nerdwallet",
+          "reference": "Thomas is an extremely talented engineer with a very broad range of skills and experience. From being a thought leader in the front-end community via backbonetutorials.com and cdnjs.com, to designing and implementing the API for cdnjs.com, working with Thomas has been fantastic learning experience. Thomas is truly a full stack develop, and his work output is incredible. If there is any opportunity to work with Thomas, I take it. He is the definition of an A player."
+      },
+      {
         "name": "Greg Davis",
         "reference": "On Thomas Davis ... Hire this guy. Do not be fooled. Incredibly capable and fast. Plays well with others. Unbelievable at front-end work end programming but that is just the start. Visionary. Hire him before I do."
-    }]
+    }
+  ]
 }
