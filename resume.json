@@ -1,111 +1,191 @@
 {
-    "basics": {
-        "name": "Thomas Davis",
-        "label": "Web Developer",
-        "summary": "I’m a full stack web developer who loves working with open source technology. I work best at planning the architecture of web  applications and their development life cycles. I also love to get the community involved and have had much experience with building and organizing large open source groups.",
-        "email": "thomasalwyndavis@gmail.com",
-        "location": {
-            "city": "Brisbane",
-            "countryCode": "AU"
-        },
-        "profiles": [{
-            "network": "twitter",
-            "url": "https://twitter.com/neutralthoughts",
-            "username": "neutralthoughts"
-        }, {
-            "network": "github",
-            "username": "thomasdavis",
-            "url": "https://github.com/thomasdavis"
-        }]
-    },
-    "work": [{
-        "startDate": "2011-01-08",
-        "position": "Co-Founder",
-        "company": "Cdnjs",
-        "website": "http://www.cdnjs.com",
-        "summary": "Following Google’s CDN for jQuery, we decided to start a CDN for the less popular Javascript frameworks. The CDN is community moderated and open source on GitHub. We secured a partnership with Cloudflare who now supports the infrastructure.",
-        "highlights": ["Hundreds of thousands of sites use the CDN in production", "Larger market share than Yahoo's and Microsoft's content distribution network", "We serve tens of billions request a month", "Contains over 1000 popular Javascript libraries", "Hundreds of thousands developers visit the site per year"]
-    }, {
-        "startDate": "2014-04-01",
-        "position": "Developer",
-        "company": "Electronic Frontier Foundation",
-        "website": "http://www.eff.org",
-        "summary": "Hired to take EFF's campaigning to the next level by building an action centre in Ruby on Rails. The action centre is built around some large open source tools that lower the barrier to entry when contacting congress.",
-        "highlights": ["Developed new tools for contacting congress", "Brainstormed campaign ideas to raise maximum awareness about issues", "Lots of social networking integration"]
-    }, {
-        "startDate": "2013-03-08",
-        "endDate": "2014-01-09",
-        "position": "CTO",
-        "company": "Earbits",
-        "website": "http://www.earbits.com",
-        "summary": "Started off as a front end developer but took on the role of CTO in early 2013. The application frontend is built with Javascript and organized as a single page application that talks to a collection of Rails web servers which are connected to MongoDB.",
-        "highlights": ["Managed a small team of developers and designers", "Built the entire frontend application with Backbone.js", "Transferred all of the infrastructure from Heroku to AWS"]
-    }, {
-        "startDate": "2014-04-01",
-        "position": "Founder",
-        "company": "JSON Resume",
-        "website": "http://jsonresume.org",
-        "summary": "JSON Resume is a community driven open source initiative to create a JSON based standard for resumes. There is no reason why there can't be a common standard for writing a resume that can be extended with an ecosystem of open source tools.",
-        "highlights": ["Over 1500 stars on Github", "Community developed themes", "50,000 views on the hosted service"]
-    }, {
-        "startDate": "2013-06-01",
-        "position": "Developer",
-        "company": "Taskforce.is",
-        "website": "http://www.taskforce.is",
-        "summary": "Worked on many politically charged campaigns against mass surveillance. Not only technically challenging work but also a lot of networking and getting my hands dirty with politics.    Our biggest project was \"TheDayWeFightBack\"..",
-        "highlights": ["Generated  37,000,000 banner views", "100, 000 phone calls to congress", "500, 000 emails", "250, 000 signatures"]
-    }, {
-        "startDate": "2013-01-01",
-        "position": "Co-Founder",
-        "company": "Drone Hire",
-        "website": "http://www.dronehire.org",
-        "summary": "An international directory of civilian drone / UAV operators for hire. Services include aerial photography, aerial video, mapping, surveying, precision agriculture, real estate photography, remote inspections and infrared imaging. Our plan is to be the place to go when looking for UAV/Drone services. The website is built in Backbone.js and API is built with Node.js and Postgres. ",
-        "highlights": ["The site and blog combined have managed to receive over 200,000 visitors in 2014."]
-    }, {
-        "startDate": "2011-01-01",
-        "position": "Founder",
-        "company": "BackboneTutorials.com",
-        "website": "http://backbonetutorials.com",
-        "summary": "I write tutorials and blog post regarding the popular Javascript framework Backbone.js. The tutorials cover a range of topics regarding front end development aimed at beginners, experts and anyone in between.",
-        "highlights": ["Over two million unique visitors a year", "25,000+ ebook downloads", "150,000 Youtube views", "Spawned another project called backboneboilerplate.com"]
-    }, {
-        "startDate": "2011-01-01",
-        "endDate": "2012-06-01",
-        "position": "Front-end Developer",
-        "company": "Ephox",
-        "website": "http://ephox.com",
-        "summary": "Ephox is a worldwide company who is heavily involved with the development of TinyMce and enterprise editors. My primary role included building front-end widgets and applications. Worked on a major product using Backbone.js as a base. Heavily involved in UI/UX design and wire-framing. Also spend a lot of time designing API specifications and documentation."
-    }],
-    "education": [{
-        "institution": "The University of Queensland",
-        "studyType": "Bachelors",
-        "area": "Software Engineering (incomplete)",
-        "startDate": "2008-02-12",
-        "endDate": "2009-12-12"
-    }],
-    "skills": [{
-        "name": "Frontend",
-        "keywords": ["HTML", "CSS", "Javascript", "Backbone"]
-    }, {
-        "name": "Backend",
-        "keywords": ["Node", "Ruby", "Python"]
-    }],
-    "references": [
+  "basics": {
+    "name": "Thomas Davis",
+    "label": "Web Developer",
+    "summary":
+      "I’m a full stack web developer who loves working with open source technology. I work best at planning the architecture of web  applications and their development life cycles. I also love to get the community involved and have had much experience with building and organizing large open source groups. Specialties: React, Redux, Javascript - Full stack developer with lots of experience in lots of stuff",
+    "email": "thomasalwyndavis@gmail.com",
+    "website": "https://ajaxdavis.com",
+    "location": { "city": "Melbourne", "countryCode": "AU" },
+    "profiles": [
       {
-          "name": "Joey Flores, Co-founder and CEO of Earbits, Inc.",
-          "reference": "Thomas was hired as a lead developer and, upon the leaving of our co-founder took over as CTO of Earbits. Thomas is, hands down, one of those A Players you hear of companies dying to hire. He is incredibly smart, not just at code but about everything from classical music to Chinese language and culture. Thomas is great to work with and, as a well established contributor to open source projects and several successful ventures, commands the respect of engineers at all levels. I would suggest doing anything you can to have him on your team."
+        "network": "twitter",
+        "url": "https://twitter.com/ajaxdavis",
+        "username": "ajaxdavis"
       },
       {
-          "name": "Yotam Rosenbaum, SVP of Operations, Earbits, Inc.",
-          "reference": "I've had the great pleasure of working with Thomas for the past three years at Earbits, and on a few side projects. Two years ago our CTO left on a moment's notice, Thomas saved our company by quickly stepping up to fill this role. He has been with our company through thick and thin and made serious personal sacrifices in order to help the company during tough times. He is a phenomenal hacker and a true team player. Highly recommended!"
-      },
-      {
-          "name": "Ryan Kirkman, Senior Software Engineer at Nerdwallet",
-          "reference": "Thomas is an extremely talented engineer with a very broad range of skills and experience. From being a thought leader in the front-end community via backbonetutorials.com and cdnjs.com, to designing and implementing the API for cdnjs.com, working with Thomas has been fantastic learning experience. Thomas is truly a full stack develop, and his work output is incredible. If there is any opportunity to work with Thomas, I take it. He is the definition of an A player."
-      },
-      {
-        "name": "Greg Davis",
-        "reference": "On Thomas Davis ... Hire this guy. Do not be fooled. Incredibly capable and fast. Plays well with others. Unbelievable at front-end work end programming but that is just the start. Visionary. Hire him before I do."
+        "network": "github",
+        "username": "thomasdavis",
+        "url": "https://github.com/thomasdavis"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "The University of Queensland",
+      "studyType": "Bachelors",
+      "area": "Software Engineering (incomplete)",
+      "startDate": "2008-02-12",
+      "endDate": "2009-12-12"
     }
-  ]
+  ],
+  "references": [
+    {
+      "name": "Joey Flores, Co-founder and CEO of Earbits, Inc.",
+      "reference":
+        "Thomas was hired as a lead developer and, upon the leaving of our co-founder took over as CTO of Earbits. Thomas is, hands down, one of those A Players you hear of companies dying to hire. He is incredibly smart, not just at code but about everything from classical music to Chinese language and culture. Thomas is great to work with and, as a well established contributor to open source projects and several successful ventures, commands the respect of engineers at all levels. I would suggest doing anything you can to have him on your team."
+    },
+    {
+      "name": "Yotam Rosenbaum, SVP of Operations, Earbits, Inc.",
+      "reference":
+        "I've had the great pleasure of working with Thomas for the past three years at Earbits, and on a few side projects. Two years ago our CTO left on a moment's notice, Thomas saved our company by quickly stepping up to fill this role. He has been with our company through thick and thin and made serious personal sacrifices in order to help the company during tough times. He is a phenomenal hacker and a true team player. Highly recommended!"
+    },
+    {
+      "name": "Ryan Kirkman, Senior Software Engineer at Nerdwallet",
+      "reference":
+        "Thomas is an extremely talented engineer with a very broad range of skills and experience. From being a thought leader in the front-end community via backbonetutorials.com and cdnjs.com, to designing and implementing the API for cdnjs.com, working with Thomas has been fantastic learning experience. Thomas is truly a full stack develop, and his work output is incredible. If there is any opportunity to work with Thomas, I take it. He is the definition of an A player."
+    },
+    {
+      "name": "Greg Davis",
+      "reference":
+        "On Thomas Davis ... Hire this guy. Do not be fooled. Incredibly capable and fast. Plays well with others. Unbelievable at front-end work end programming but that is just the start. Visionary. Hire him before I do."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend",
+      "keywords": ["HTML", "CSS", "Javascript", "React", "Redux"]
+    },
+    { "name": "Backend", "keywords": ["Node", "Ruby", "Postgres", "DynamoDb"] }
+  ],
+  "work": [
+    {
+      "startDate": "2018-03-01",
+      "position": "Developer",
+      "company": "Blockbid",
+      "website": "https://blockbid.io",
+      "summary": "An Australian crypto currency exchange"
+    },
+    {
+      "endDate": "2018-01-01",
+      "startDate": "2016-01-01",
+      "position": "Developer",
+      "company": "Listium",
+      "website": "https://listium.com",
+      "summary":
+        "Built a very large and complex React / Redux application. It works on all platforms and has IOS/Android builds due to it being a PWA. (wrapped it in React Native though only implementing a WebView)",
+      "highlights": [
+        "Worked with Postgres, Redis and Dynamodb for storage.",
+        "Hosted on a mixture of Heroku Apps and EC2 servers.",
+        "Caching by Fastly and Cloudflare",
+        "Hybrid app supported on all platforms"
+      ]
+    },
+    {
+      "startDate": "2011-01-08",
+      "position": "Co-Founder",
+      "company": "Cdnjs",
+      "website": "http://www.cdnjs.com",
+      "summary":
+        "Following Google’s CDN for jQuery, we decided to start a CDN for the less popular Javascript frameworks. The CDN is community moderated and open source on GitHub. We secured a partnership with Cloudflare who now supports the infrastructure.",
+      "highlights": [
+        "Millions of sites use the CDN in production",
+        "Larger market share than Yahoo's and Microsoft's content distribution network",
+        "We serve hundreds of billions request a month",
+        "Contains over 2000 popular Javascript libraries",
+        "Millions of developers visit the site per year"
+      ]
+    },
+    {
+      "endDate": "2016-01-01",
+      "startDate": "2014-04-01",
+      "position": "Developer",
+      "company": "Electronic Frontier Foundation",
+      "website": "http://www.eff.org",
+      "summary":
+        "Hired to take EFF's campaigning to the next level by building an action centre in Ruby on Rails. The action centre is built around some large open source tools that lower the barrier to entry when contacting congress.",
+      "highlights": [
+        "Developed new tools for contacting congress",
+        "Brainstormed campaign ideas to raise maximum awareness about issues",
+        "Lots of social networking integration"
+      ]
+    },
+    {
+      "startDate": "2013-03-08",
+      "endDate": "2015-01-09",
+      "position": "CTO",
+      "company": "Earbits",
+      "website": "http://www.earbits.com",
+      "summary":
+        "Started off as a front end developer but took on the role of CTO in early 2013. The application frontend is built with Javascript and organized as a single page application that talks to a collection of Rails web servers which are connected to MongoDB.",
+      "highlights": [
+        "Managed a small team of developers and designers",
+        "Built the entire frontend application with Backbone.js",
+        "Transferred all of the infrastructure from Heroku to AWS"
+      ]
+    },
+    {
+      "startDate": "2014-04-01",
+      "position": "Founder",
+      "company": "JSON Resume",
+      "website": "http://jsonresume.org",
+      "summary":
+        "JSON Resume is a community driven open source initiative to create a JSON based standard for resumes. There is no reason why there can't be a common standard for writing a resume that can be extended with an ecosystem of open source tools.",
+      "highlights": [
+        "Over 1500 stars on Github",
+        "Community developed themes",
+        "50,000 views on the hosted service"
+      ]
+    },
+    {
+      "endDate": "2016-01-01",
+      "startDate": "2013-06-01",
+      "position": "Developer",
+      "company": "Taskforce.is",
+      "website": "http://www.taskforce.is",
+      "summary":
+        "Worked on many politically charged campaigns against mass surveillance. Not only technically challenging work but also a lot of networking and getting my hands dirty with politics.    Our biggest project was \"TheDayWeFightBack\"..",
+      "highlights": [
+        "Generated  37,000,000 banner views",
+        "100, 000 phone calls to congress",
+        "500, 000 emails",
+        "250, 000 signatures"
+      ]
+    },
+    {
+      "startDate": "2013-01-01",
+      "position": "Co-Founder",
+      "company": "Drone Hire",
+      "website": "http://www.dronehire.org",
+      "summary":
+        "An international directory of civilian drone / UAV operators for hire. Services include aerial photography, aerial video, mapping, surveying, precision agriculture, real estate photography, remote inspections and infrared imaging. Our plan is to be the place to go when looking for UAV/Drone services. The website is built in Backbone.js and API is built with Node.js and Postgres. ",
+      "highlights": [
+        "The site and blog combined have managed to receive over 200,000 visitors in 2014."
+      ]
+    },
+    {
+      "endDate": "2014-01-01",
+      "startDate": "2011-01-01",
+      "position": "Founder",
+      "company": "BackboneTutorials.com",
+      "website": "http://backbonetutorials.com",
+      "summary":
+        "I write tutorials and blog post regarding the popular Javascript framework Backbone.js. The tutorials cover a range of topics regarding front end development aimed at beginners, experts and anyone in between.",
+      "highlights": [
+        "Over two million unique visitors a year",
+        "25,000+ ebook downloads",
+        "280,000 Youtube views"
+      ]
+    },
+    {
+      "startDate": "2011-01-01",
+      "endDate": "2012-06-01",
+      "position": "Front-end Developer",
+      "company": "Ephox",
+      "website": "http://ephox.com",
+      "summary":
+        "Ephox is a worldwide company who is heavily involved with the development of TinyMce and enterprise editors. My primary role included building front-end widgets and applications. Worked on a major product using Backbone.js as a base. Heavily involved in UI/UX design and wire-framing. Also spend a lot of time designing API specifications and documentation."
+    }
+  ],
+  "__v": 0
 }
