@@ -5,4 +5,3 @@
     token: ${{ secrets.TOKEN }}
     gist_id: c9dcfa1b37dec07fb2ee7f36d7278105
     file_path: resume.json
-    file_type: binary
