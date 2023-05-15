@@ -4,6 +4,7 @@ on: push
 
 jobs:
   update-resume-gist:
+    runs-on: ubuntu-latest 
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v3
