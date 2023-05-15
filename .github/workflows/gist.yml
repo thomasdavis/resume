@@ -1,7 +1,13 @@
-- uses: actions/checkout@v3
-- name: Deploy
-  uses: exuanbo/actions-deploy-gist@v1
-  with:
-    token: ${{ secrets.TOKEN }}
-    gist_id: c9dcfa1b37dec07fb2ee7f36d7278105
-    file_path: resume.json
+name: Update Resume Gist
+
+on: push
+
+jobs:
+  update-resume-gist:
+    - uses: actions/checkout@v3
+    - name: Deploy
+      uses: exuanbo/actions-deploy-gist@v1
+      with:
+        token: ${{ secrets.TOKEN }}
+        gist_id: c9dcfa1b37dec07fb2ee7f36d7278105
+        file_path: resume.json
